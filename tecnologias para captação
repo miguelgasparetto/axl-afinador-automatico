@@ -1,0 +1,8 @@
+1- Lib FreqMeasure: Mostrou-se eficaz para medição de frequências digitais, entretanto não capta a frequência fundamental das ondas do violão
+
+2- Análise de Fourier: Com a lib arduinoFFT, pode ser possível analisar ondas não periódicas analógicas e determinar a frequência fundamental. 
+  Testes devem ser feitos.
+  
+3- Autocorrelação: Pegando uma amostra da onda, em um certo intervalo, e comparando essa amostra continuamente com o input, seria possível determinar a frequência fundamental.
+  A distância entre os dois momentos em que a amostra é similar ao input vai dar o período do sinal. Testes devem ser feitos.
+  Fonte: https://www.instructables.com/id/Reliable-Frequency-Detection-Using-DSP-Techniques/
