@@ -1,3 +1,9 @@
+/*
+ * AXL - AFINADOR AUTOMÁTICO
+ * Projeto desevolvido por Miguel Gasparetto e Leonardo Strechar 
+ * Eletrônica Aplicada - UTFPR - 2018
+ * Versão 13.12.18.0
+*/
 #include <arduinoFFT.h>
 #include <LiquidCrystal.h>
 #include <Stepper.h>
